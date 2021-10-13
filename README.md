@@ -1,4 +1,4 @@
-# Ntut computer graphic laboratory slide system in "slide mode"
+# NTUT computer graphic laboratory slide system in "slide mode"
 
 ## source code
 
